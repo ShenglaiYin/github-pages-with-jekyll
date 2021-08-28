@@ -1,3 +1,8 @@
+---
+title: "Personal R coding tips for very beginners"
+date: 2021-08-29
+---
+
 # Personal experience for R coding tips
 # Authored by: Dr. Shenglai Yin
 # Date: 2021-08-28
