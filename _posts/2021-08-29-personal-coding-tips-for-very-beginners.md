@@ -4,9 +4,9 @@ date: 2021-08-29
 ---
 
 #Personal experience for R coding tips
-###Authored by: Dr. Shenglai Yin
-###Date: 2021-08-28
-###Reach the author: twitter: @Shenglai_Y; email: shenglai.yin@outlook.com
+Authored by: Dr. Shenglai Yin
+Date: 2021-08-28
+Reach the author: twitter: @Shenglai_Y; email: shenglai.yin@outlook.com
 
 At the beginning of a script, you'd better mark/comment (write done after #) the purpose(s) of this script.
 It helps other people to understand your code when they examine or re-produce your results
